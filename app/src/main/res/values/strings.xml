@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">Sahyog</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="activity1">MainActivity</string>
+    <string name="activity2">LoginActivity</string>
+
+    <string name="button">Get Started</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <array name="Category">
+        <item>Shirt</item>
+        <item>Tshirt</item>
+        <item>Hoody</item>
+        <item>Pant</item>
+        <item>jacket</item>
+        <item>Shorts</item>
+        <item>Lowers</item>
+    </array>
+
+    <array name="Category1">
+        <item>Saree</item>
+        <item>Salwar</item>
+        <item>Kurta</item>
+        <item>Salwar/Kurta</item>
+        <item>Shirt</item>
+        <item>T-Shirt</item>
+        <item>pant</item>
+    </array>
+
+    <array name="Category5">
+        <item>Blanket</item>
+        <item>Sweater</item>
+        <item>Tarpaulin</item>
+        <item>Bedsheets</item>
+        <item>Chairs</item>
+        <item>Curtains</item>
+        <item>Furniture</item>
+        <item>Pillows</item>
+        <item>Winter Caps</item>
+        <item>Mattress</item>
+        <item>Floor Mat</item>
+        <item>Bags</item>
+    </array>
+
+    <array name="Category6">
+
+        <item>Cereals</item>
+        <item>Millets</item>
+        <item>Pulses</item>
+        <item>Fruits</item>
+        <item>Vegetables</item>
+        <item>Seeds</item>
+        <item>Dairy products</item>
+        <item>Cooked Food</item>
+
+
+    </array>
+
+    <array name="Category7">
+
+        <item>Mobile</item>
+        <item>Headphones</item>
+        <item>Blutooth Headphone</item>
+        <item>Earphones</item>
+        <item>Blutooth Earphones</item>
+        <item>Phone Charger</item>
+        <item>Hair Drier</item>
+        <item>Study Lamps</item>
+        <item>Laptop/PC</item>
+        <item>Computer accessories</item>
+        <item>Speakers</item>
+        <item>Steemer</item>
+        <item>Kitchen Accessories</item>
+        <item>Etc.</item>
+    </array>
+
+    <array name="Bookcat">
+
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Biologt</item>
+        <item>Maths</item>
+        <item>Engineering</item>
+        <item>Diploma</item>
+        <item>History</item>
+        <item>Geography</item>
+        <item>Programming</item>
+        <item>Space Science</item>
+        <item>Compitive Exams</item>
+        <item>General Knowledge</item>
+        <item>Autobiography</item>
+        <item>Medical</item>
+        <item>Commerce</item>
+        <item>Arts</item>
+        <item>Maths</item>
+    </array>
+
+
+</resources>
